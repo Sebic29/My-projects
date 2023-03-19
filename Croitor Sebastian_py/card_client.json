@@ -1,0 +1,24 @@
+{
+    "3": {
+        "py/object": "Domain.card_client.CardClient",
+        "id_entity": "3",
+        "id_name": "sdf",
+        "name": "fasd",
+        "sur_name": "dsf",
+        "cnp": "3456789024531",
+        "date_of_birth": "11-11-2020",
+        "registration_data": "11-3-1111",
+        "accumulated_point": 320.8
+    },
+    "2": {
+        "py/object": "Domain.card_client.CardClient",
+        "id_entity": "2",
+        "id_name": "sadf",
+        "name": "asd",
+        "sur_name": "asd",
+        "cnp": "2345678912345",
+        "date_of_birth": "11-11-2021",
+        "registration_data": "11-11-1111",
+        "accumulated_point": 40.0
+    }
+}

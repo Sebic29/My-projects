@@ -1,0 +1,66 @@
+{
+    "2": {
+        "py/object": "Domain.film.Film",
+        "id_entity": "2",
+        "title": "asdf",
+        "year_apperance": "1900",
+        "price_ticket": 20.0,
+        "in_program": "Not"
+    },
+    "4": {
+        "py/object": "Domain.film.Film",
+        "id_entity": "4",
+        "title": "sdf",
+        "year_apperance": "1322",
+        "price_ticket": 34.0,
+        "in_program": "Yes"
+    },
+    "1": {
+        "py/object": "Domain.film.Film",
+        "id_entity": "1",
+        "title": "t1",
+        "year_apperance": "1900",
+        "price_ticket": 12.0,
+        "in_program": "Yes"
+    },
+    "3": {
+        "py/object": "Domain.film.Film",
+        "id_entity": "3",
+        "title": "asdf",
+        "year_apperance": "sdf",
+        "price_ticket": 2.0,
+        "in_program": "Yes"
+    },
+    "9589191": {
+        "py/object": "Domain.film.Film",
+        "id_entity": "9589191",
+        "title": "gniaygkwt",
+        "year_apperance": "1997",
+        "price_ticket": 7551.0,
+        "in_program": "1"
+    },
+    "79215560": {
+        "py/object": "Domain.film.Film",
+        "id_entity": "79215560",
+        "title": "xyhoyxnz",
+        "year_apperance": "1992",
+        "price_ticket": 671.0,
+        "in_program": "0"
+    },
+    "48304012": {
+        "py/object": "Domain.film.Film",
+        "id_entity": "48304012",
+        "title": "kigyoo",
+        "year_apperance": "2013",
+        "price_ticket": 8102.0,
+        "in_program": "0"
+    },
+    "9561545": {
+        "py/object": "Domain.film.Film",
+        "id_entity": "9561545",
+        "title": "fpgryusbw",
+        "year_apperance": "2006",
+        "price_ticket": 2428.0,
+        "in_program": "1"
+    }
+}

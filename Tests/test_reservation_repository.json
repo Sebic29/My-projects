@@ -1,9 +1,0 @@
-{
-    "1": {
-        "py/object": "Domain.reservation.Reservation",
-        "id_entity": "1",
-        "id_film": "1",
-        "id_card_client": "1",
-        "date_and_hour": "11/11/1111 11:11"
-    }
-}
